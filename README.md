@@ -25,3 +25,11 @@ VisionCheckout is an automated cashier system leveraging computer vision technol
 
    ```bash
    git clone https://github.com/Alaaeldinn/VisionCheckout.git
+   ```
+2. Install ZSED
+
+   ```bash
+   git clone https://github.com/Alaaeldinn/ZSED.git
+   ```
+   
+   
