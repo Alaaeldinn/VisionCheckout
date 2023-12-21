@@ -14,11 +14,6 @@ VisionCheckout is an automated cashier system leveraging computer vision technol
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- [List any additional dependencies or hardware requirements]
-
 ### Installation
 
 1. Clone the repository:
@@ -26,10 +21,5 @@ VisionCheckout is an automated cashier system leveraging computer vision technol
    ```bash
    git clone https://github.com/Alaaeldinn/VisionCheckout.git
    ```
-2. Install ZSED
 
-   ```bash
-   git clone https://github.com/Alaaeldinn/ZSED.git
-   ```
-   
    
